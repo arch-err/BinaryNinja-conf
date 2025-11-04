@@ -1,4 +1,7 @@
-![logo](./icon/binaryninja.png)
+<p align="center">
+   <img src="./icon/binaryninja.png" alt="Binary Ninja logo" height="200">
+</p>
+
 # BinaryNinja Configuration and Installation
 
 ## TL;DR
