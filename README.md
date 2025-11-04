@@ -1,0 +1,2 @@
+# BinaryNinja-conf
+BinaryNinja I
