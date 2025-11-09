@@ -19,6 +19,10 @@ curl .../setup.sh | sh
 ## Configuration
 
 ### .desktop file
+Since I wasn't very happy with the XDG-Desktop Entry `.desktop`-file that binaryninja gave me (or sometimes didn't even give me...) I made my own. Install it with:
+```bash
+
+```
 
 ### Keybinds
 Since vim-bindings always are superior I've made some rebinds. Here are **some** of the most important keybindings from my `./keybindings.json`.

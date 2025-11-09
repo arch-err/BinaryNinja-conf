@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Binary Ninja
+Comment=Binary Ninja: A Reverse Engineering Platform
+Exec=/bin/sh -c "$HOME/.local/bin/binaryninja %U"
+Icon=binaryninja.png
+Terminal=false
+Type=Application
+MimeType=application/x-binaryninja;x-scheme-handler/binaryninja;
+Categories=Utility;
